@@ -1,9 +1,11 @@
 streamlit
 langchain
-langchain_community
-langchain_experimental
-faiss-cpu
+langchain-community
+langchain-experimental
 pdfplumber
-torch
 sentence-transformers
+faiss-cpu
 ollama
+pydantic
+pypdf
+tiktoken
