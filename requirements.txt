@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-community
+langchain-experimental
+pdfplumber
+sentence-transformers
+faiss-cpu
+ollama
+pydantic
+pypdf
+tiktoken
